@@ -275,9 +275,10 @@ body {
   left:-326px;
     position: absolute;
       font-family: "Bowlby One SC", cursive;
-      font-size: 24px;
+      font-size: 22px;
       line-height: 90px;
       top: 450px;
+      line-height: 70px;
       color: var(--font-color);
 }
 
